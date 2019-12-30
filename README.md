@@ -1,11 +1,17 @@
 # DesignPatterns
 
-'Head First Design Patterns' ì±…ì„ í†µí•œ ê³µë¶€.
-ì°¸ê³  : [ì˜ˆì œ íŒŒì¼ URL](https://www.wickedlysmart.com/headfirstdesignpatterns)
+'Head First Design Patterns' Ã¥À» ÅëÇÑ °øºÎ.<br>
+Âü°í : [¿¹Á¦ ÆÄÀÏ URL](https://www.wickedlysmart.com/headfirstdesignpatterns)
 
-##ëª©ë¡
-- [íˆìŠ¤í† ë¦¬](##íˆìŠ¤í† ë¦¬)
+##¸ñ·Ï
+- [È÷½ºÅä¸®](##È÷½ºÅä¸®)
 - [Strategy Pattern](##Strategy Pattern)
-##íˆìŠ¤í† ë¦¬
-- 2019.12.30 : ì²« ì»¤ë°‹.
+
+##È÷½ºÅä¸®
+- 2019.12.30 : Ã¹ Ä¿¹Ô.
+
 ##Strategy Pattern
+°¡Àå ±âº»ÀûÀÎ µğÀÚÀÎ ÆĞÅÏÀ¸·Î ¾Ë°í¸®Áò±ºÀ» Á¤ÀÇÇÏ°í °¢°¢À» Ä¸½¶È­ÇÏ¿© ±³È¯ÇØ¼­ »ç¿ëÇÒ ¼ö ÀÖµµ·Ï ÇÑ´Ù.<br>
+Æ¯Â¡À¸·Î´Â ¾Ë°í¸®ÁòÀ» »ç¿ëÇÏ´Â Å¬¶óÀÌ¾ğÆ®¿Í´Â µ¶¸³ÀûÀ¸·Î ¾Ë°í¸®ÁòÀ» º¯°æÇÒ ¼ö ÀÖ´Ù.<br>
+
+
