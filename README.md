@@ -3,7 +3,7 @@
 'Head First Design Patterns' 책을 통한 공부.<br>
 참고 : [예제 파일 URL](https://www.wickedlysmart.com/headfirstdesignpatterns)
 
-## 목록
+## 목차
 - [히스토리](##히스토리)
 - [Strategy Pattern](##StrategyPattern)
 
