@@ -4,13 +4,13 @@
 참고 : [예제 파일 URL](https://www.wickedlysmart.com/headfirstdesignpatterns)
 
 ## 목차
-- [히스토리](## 히스토리)
-- [디자인 원칙](## 디자인원칙)
-- [Strategy Pattern](## StrategyPattern)
-- [Observer Pattern](## ObserverPattern)
-- [Decorator Pattern](## DecoratorPattern)
-- [Facotory Method Pattern](## FacotoryMethodPattern)
-- [Abstract Facotory Pattern](## AbstractFacotoryPattern)
+- [히스토리](##히스토리)
+- [디자인 원칙](##디자인원칙)
+- [Strategy Pattern](##StrategyPattern)
+- [Observer Pattern](##ObserverPattern)
+- [Decorator Pattern](##DecoratorPattern)
+- [Facotory Method Pattern](##FacotoryMethodPattern)
+- [Abstract Facotory Pattern](##AbstractFacotoryPattern)
 ## 히스토리
 - 2019.12.30 : 첫 커밋.
 - 2019.01.05 : 디자인 패턴 정리 1 ~ 4장
