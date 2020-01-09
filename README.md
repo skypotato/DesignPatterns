@@ -54,10 +54,23 @@
 
 2. 두번째 방안(슈퍼 클래스)
 
-![슈퍼 클래스](WebContent/WEB-INF/assets/img/SuperClassBeverage.jpg "슈퍼클래스")
+![슈퍼클래스](WebContent/WEB-INF/assets/img/SuperClassBeverage.jpg "슈퍼클래스")
 
+토핑의 종류가 추가될 때마다 메서드가 추가되어야한다.<br>
+토핑 가격 수정 시마다 클래스 수정 필요하다.<br>
+특정 토핑이 들어가면 안되는 경우도 발생한다.<br>
 
+3. 세번째 방안(데코레이터 패턴)
 
+![데코레이터패턴](WebContent/WEB-INF/assets/img/DecoratorPattern.jpg "데코레이터 패턴")
+
+토핑 종류 추가나 가격 수정이 용이해지고, 메뉴 추가도 간편해졌다.<br>
+
+---
+
+Java에서의 Decorator Pattern
+
+![데코레이터패턴자바](WebContent/WEB-INF/assets/img/DecoratorPatternByJava.jpg "자바에서 데코레이터 패턴")
 
 참고 : ['jusungpark'님의 티스토리블로그](https://jusungpark.tistory.com)
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
