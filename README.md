@@ -39,6 +39,17 @@
 객체에 추가적인 요건을 동적으로 첨가할 수 있는 패턴이다.<br>
 데코레이터는 서브클래스를 만드는 것을 통해서 기능을 유연하게 확장할 수 있는 방법을 제공한다.<br>
 
+예시) 커피 전문점 주문 시스템
+```
+커피 전문점 특성
+- 메뉴에 따라 휘핑, 우유 첨가 등이 달라짐.
+- 토핑 종류가 추가될 수 있음.
+- 손님들이 토핑을 원하는 양만큼 추가 가능함.
+```
+1. 첫번째 방안(메뉴 추가할 때마다 클래스 생성)
+![클래스생성](WebContent/WEB-INF/assets/img/BadBeverage.jpg "클래스 생성")
+
+참고 : ['jusungpark'님의 티스토리블로그](https://jusungpark.tistory.com)
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
 ## Facotory Method Pattern
