@@ -47,6 +47,7 @@
 - 손님들이 토핑을 원하는 양만큼 추가 가능함.
 ```
 1. 첫번째 방안(메뉴 추가할 때마다 클래스 생성)
+
 ![클래스생성](WebContent/WEB-INF/assets/img/BadBeverage.jpg "클래스 생성")
 
 참고 : ['jusungpark'님의 티스토리블로그](https://jusungpark.tistory.com)
