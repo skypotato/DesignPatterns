@@ -50,6 +50,15 @@
 
 ![클래스생성](WebContent/WEB-INF/assets/img/BadBeverage.jpg "클래스 생성")
 
+클래스가 너무 많아서 소스코드가 복잡해지고, 손님 기호에 맞는 확장이 힘들다.
+
+2. 두번째 방안(슈퍼 클래스)
+
+![슈퍼 클래스](WebContent/WEB-INF/assets/img/SuperClassBeverage.jpg "슈퍼클래스")
+
+
+
+
 참고 : ['jusungpark'님의 티스토리블로그](https://jusungpark.tistory.com)
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
