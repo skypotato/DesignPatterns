@@ -11,6 +11,7 @@
 - [Decorator Pattern](#Decorator-Pattern)
 - [Facotory Method Pattern](#Facotory-Method-Pattern)
 - [Abstract Facotory Pattern](#Abstract-Facotory-Pattern)
+- [용어사전](#용어사전)
 ## 히스토리
 - 2019.12.30 : 첫 커밋.
 - 2019.01.05 : 디자인 패턴 정리 1 ~ 4장
@@ -83,5 +84,23 @@ Java에서의 Decorator Pattern
 
 ## Abstract Facotory Pattern
 인터페이스를 이용하여 서로 연관된, 또는 의존하는 객체를 구상 클래스를 지정하지 않고도 생성할 수 있게한다.
+
+<div align="right"><b><a href="#">↥ back to top</a></b></div>
+
+## 용어사전
+- 상속(inheritance)
+'''
+'''
+- 구성(composition)
+'''
+'''
+- 오버 로딩(overloading)
+'''
+다형성을 지원하는 방법 중 하나로써, 같은 이름의 메소드를 여러 개 가지면서 매개변수의 유형과 갯수를 다르게하여 다형성을 지원한다.
+'''
+- 오버 라이딩(overwriting)
+'''
+다형성을 지원하는 방법 중 하나로써, 상위 클래스가 가지고 있는 메소드를 하위 클래스가 재정의함으로써 다형성을 지원한다.
+'''
 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
