@@ -94,12 +94,19 @@ Java에서의 Decorator Pattern
 - 같은 피자일지라도 스타일이 다를 수 있음.
 ```
 
-
-
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
 ## Abstract Facotory Pattern
 인터페이스를 이용하여 서로 연관된, 또는 의존하는 객체를 구상 클래스를 지정하지 않고도 생성할 수 있게한다.
+
+### Facotory Method Pattern / Abstract Facotory Pattern 공통점과 차이점
+- 공통점
+	- 애플리케이션을 특정 구현으로부터 분리시킨다.
+- 차이점
+	- 팩토리 메소드 패턴의 경우 객체 생성 시 상속(inheritance)을 통해 추상 팩토리 패턴의 경우 객체 구성(composition)을 통해 생성한다.<br>
+	- 팩토리 메소드패턴의 경우 클래스를 확장하고 팩토리 메소드를 오버라이드하는 작업이 필요하다.
+	- 추상 팩토리 패턴은 서로 밀접한 제품들(제품군)을 만들기 적합한 디자인 패턴이다.
+	- 팩토리 메소드 패턴은 클라이언트 코드와 인스턴스를 만들어야할 구상 클래스를 분리시킬 경우 유용한 디자인 패턴이다. 
 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
