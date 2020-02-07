@@ -11,6 +11,8 @@
 - [Decorator Pattern](#Decorator-Pattern)
 - [Facotory Method Pattern](#Facotory-Method-Pattern)
 - [Abstract Facotory Pattern](#Abstract-Facotory-Pattern)
+- [Singleton Pattern](#Singleton-Pattern)
+- [Command Pattern](#Command-Pattern)
 - [용어사전](#용어사전)
 ## 히스토리
 - 2019.12.30 : 첫 커밋.
@@ -108,6 +110,16 @@ Java에서의 Decorator Pattern
 	- 팩토리 메소드패턴의 경우 클래스를 확장하고 팩토리 메소드를 오버라이드하는 작업이 필요하다.
 	- 추상 팩토리 패턴은 서로 밀접한 제품들(제품군)을 만들기 적합한 디자인 패턴이다.
 	- 팩토리 메소드 패턴은 클라이언트 코드와 인스턴스를 만들어야할 구상 클래스를 분리시킬 경우 유용한 디자인 패턴이다. 
+
+<div align="right"><b><a href="#">↥ back to top</a></b></div>
+
+## Singleton Pattern
+어디서든지 그 인스턴스에 접근할 수 있도록 하기위해 클래스의 인스턴스를 하나만 만든다.  
+
+<div align="right"><b><a href="#">↥ back to top</a></b></div>
+
+## Command Pattern
+요구 사항을 객체로 캡슐화 할 수 있으며, 매개변수를 써서 여러 가지 다른 요구 사항을 집어넣을 수도 있다. 또한 요청 내역을 큐에 저장하거나 로그로 기록할 수도 있으며, 작업취소 기능도 지원 가능하다.
 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
