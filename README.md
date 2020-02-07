@@ -14,6 +14,7 @@
 - [Singleton Pattern](#Singleton-Pattern)
 - [Command Pattern](#Command-Pattern)
 - [Adapter Pattern](#Adapter-Pattern)
+- [Facade Pattern](#Facade-Pattern)
 - [용어사전](#용어사전)
 ## 히스토리
 - 2019.12.30 : 첫 커밋.
@@ -126,6 +127,11 @@ Java에서의 Decorator Pattern
 
 ## Adapter Pattern
 한 클래스의 인터페이스를 클라이언트에서 사용하고자 하는 다른 인터페이스로 변환한다. 어댑터를 이용하면 인터페이스 호환성 문제 때문에 같이 쓸 수 없는 클래스들을 연결해서 쓸 수 있다.
+
+<div align="right"><b><a href="#">↥ back to top</a></b></div>
+
+## Facade Pattern
+어떤 서브시스템의 일련의 인터페이스에 대한 통합된 인터페이스를 제공한다. 고수준의 인터페이스를 정의하기 때문에 서브시스템을 더 쉽게 사용할 수 있다.
 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
