@@ -13,6 +13,7 @@
 - [Abstract Facotory Pattern](#Abstract-Facotory-Pattern)
 - [Singleton Pattern](#Singleton-Pattern)
 - [Command Pattern](#Command-Pattern)
+- [Adapter Pattern](#Adapter-Pattern)
 - [용어사전](#용어사전)
 ## 히스토리
 - 2019.12.30 : 첫 커밋.
@@ -120,6 +121,11 @@ Java에서의 Decorator Pattern
 
 ## Command Pattern
 요구 사항을 객체로 캡슐화 할 수 있으며, 매개변수를 써서 여러 가지 다른 요구 사항을 집어넣을 수도 있다. 또한 요청 내역을 큐에 저장하거나 로그로 기록할 수도 있으며, 작업취소 기능도 지원 가능하다.
+
+<div align="right"><b><a href="#">↥ back to top</a></b></div>
+
+## Adapter Pattern
+한 클래스의 인터페이스를 클라이언트에서 사용하고자 하는 다른 인터페이스로 변환한다. 어댑터를 이용하면 인터페이스 호환성 문제 때문에 같이 쓸 수 없는 클래스들을 연결해서 쓸 수 있다.
 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
