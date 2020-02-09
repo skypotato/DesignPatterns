@@ -142,6 +142,7 @@ Java에서의 Decorator Pattern
 ```
 - 구성(composition)
 ```
+하위 클래스에서 상위 클래스에 의존성을 줄이기 위한 방법으로, 상위 클래스를 상속하는 대신에 상위 클래스를 참조하는 private 필드를 하나 만드는 것이다.
 ```
 - 오버 로딩(overloading)
 ```
