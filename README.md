@@ -129,6 +129,15 @@ Java에서의 Decorator Pattern
 ## Adapter Pattern
 한 클래스의 인터페이스를 클라이언트에서 사용하고자 하는 다른 인터페이스로 변환한다. 어댑터를 이용하면 인터페이스 호환성 문제 때문에 같이 쓸 수 없는 클래스들을 연결해서 쓸 수 있다.
 
+예시) 칠면조 클래스 예제
+```
+상황 가정 : Duck 객체가 모자라 Turkey 객체를 대신 사용해야하는 상황
+```
+
+![어댑터패턴](WebContent/WEB-INF/assets/img/AdapterPattern.jpg "어댑터 패턴")
+
+
+
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
 ## Facade Pattern
