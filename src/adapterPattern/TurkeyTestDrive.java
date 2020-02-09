@@ -1,4 +1,4 @@
-package AdapterPattern;
+package adapterPattern;
 public class TurkeyTestDrive {
 	public static void main(String[] args) {
 		MallardDuck duck = new MallardDuck();

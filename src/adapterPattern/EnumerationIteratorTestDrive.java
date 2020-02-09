@@ -1,4 +1,4 @@
-package AdapterPattern;
+package adapterPattern;
 import java.util.*;
 
 public class EnumerationIteratorTestDrive {
