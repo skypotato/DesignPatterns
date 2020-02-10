@@ -27,6 +27,15 @@
 ## 디자인 원칙
 - OCP(Open-Closed Principle) : 클래스는 확장에 대해서는 열려 있어야 하지만 코드 변경에 대해서는 닫혀 있어야 한다.(124p)
 - 의존성 뒤집기 원칙(Dependency Inversion Principle) : 추상된 것에 의존하도록 만들고, 클래스에는 의존하지 않도록 만든다.(177p)
+- 최소 지식 원칙(Principle of Least Knowledge) : 객체 사이의 상호작용은 될 수 있으면 아주 가까운 '친구' 사이에서만 허용한다. 데메테르의 법칙(Law of Demeter)이라고도 한다.(303p)
+
+```
+최소 지식 원칙 가이드 라인
+- 객체 자체
+- 메소드에 매개변수로 전달된 객체
+- 그 메소드에서 생성하거나 인스턴스를 만든 객체
+- 그 객체에 속하는 구성요소
+```
 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
@@ -137,10 +146,10 @@ Java에서의 Decorator Pattern
 ![어댑터패턴](WebContent/WEB-INF/assets/img/AdapterPattern.jpg "어댑터 패턴")
 
 ### 클래스 어댑터
-
+다중 상속을 필요로 하기 때문에 JAVA에서는 사용이 불가능하다.
 
 ### 객체 어댑터
-
+상속이 아닌 구성을 이용하여 어댑터 역할을 한다.
 
 ### 주의사항
 - 어댑터 구현 시 타겟 인터페이스의 크기에 비례해 복잡도가 증가한다.
