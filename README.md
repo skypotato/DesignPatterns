@@ -197,9 +197,9 @@ Java에서의 Decorator Pattern
 상속을 받는 클래스, 즉 자식 클래스를 의미한다.
 ```
 - 투명성(transparency)
-'''
+~~~
 내용 채우기
-'''
+~~~
 
 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
