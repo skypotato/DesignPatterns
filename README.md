@@ -88,7 +88,6 @@ Java에서의 Decorator Pattern
 
 ![데코레이터패턴자바](WebContent/WEB-INF/assets/img/DecoratorPatternByJava.jpg "자바에서 데코레이터 패턴")
 
-참고 : ['jusungpark'님의 티스토리블로그](https://jusungpark.tistory.com)
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
 ## Facotory Method Pattern
@@ -198,8 +197,11 @@ Java에서의 Decorator Pattern
 ```
 - 투명성(transparency)
 ~~~
-내용 채우기
+S/W 모듈 등의 이식 및 설치가 쉽도록, 그 내용을 알기쉽게 규격화하는 것을 의미한다.
 ~~~
 
+## 참고 URL
+- ['jusungpark'님의 티스토리블로그](https://jusungpark.tistory.com) : 디자인 패턴 자료 및 이미지
+- ['정보통신기술용어해설' 홈페이지](http://www.ktword.co.kr/word/abbr_view.php?m_temp1=360) : 투명성(transparency) 정의 관련 자료
 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
