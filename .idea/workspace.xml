@@ -65,17 +65,18 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1582637018494" />
-    <state x="465" y="162" key="CommitChangelistDialog2" timestamp="1582637195190">
+    <state x="465" y="162" key="CommitChangelistDialog2" timestamp="1582726723116">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="465" y="162" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1582637195190" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1582637198936">
+    <state x="465" y="162" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1582726723116" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1582726726102">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1582637198936" />
-    <state x="573" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1582630726414">
-      <screen x="0" y="23" width="1792" height="1022" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1582726726102" />
+    <state x="573" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1582727033785">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
+    <state x="573" y="364" key="com.intellij.ide.util.TipDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1582727033785" />
     <state x="573" y="366" key="com.intellij.ide.util.TipDialog/0.23.1792.1022@0.23.1792.1022" timestamp="1582630726414" />
   </component>
 </project>
