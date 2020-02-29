@@ -15,6 +15,8 @@
 - [Command Pattern](#Command-Pattern)
 - [Adapter Pattern](#Adapter-Pattern)
 - [Facade Pattern](#Facade-Pattern)
+- [Template Method Pattern](#Template-Method-Pattern)
+- [Iterator Pattern](#Iterator-Pattern)
 - [용어사전](#용어사전)
 - [참고 URL](#참고-URL)
 ## 히스토리
@@ -169,6 +171,16 @@ Java에서의 Decorator Pattern
 ## Facade Pattern
 어떤 서브시스템의 일련의 인터페이스에 대한 통합된 인터페이스를 제공한다. 고수준의 인터페이스를 정의하기 때문에 서브시스템을 더 쉽게 사용할 수 있다.
 
+<div align="right"><b><a href="#">↥ back to top</a></b></div>
+
+## Template Method Pattern
+메소드에서 알고리즘의 골격을 정의한다. 그리고 알고리즘의 구조는 그대로 유지하면서 서브클래스에서 특정 단계를 재정의할 수 있다.
+
+<div align="right"><b><a href="#">↥ back to top</a></b></div>
+
+## Iterator Pattern
+
+ 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
 ## 용어사전

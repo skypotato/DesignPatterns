@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b11669bf-1fcc-4f28-aaf3-6b4ecf14fac9" name="Default Changelist" comment="">
+    <list default="true" id="b11669bf-1fcc-4f28-aaf3-6b4ecf14fac9" name="Default Changelist" comment="2020.02.27 : 디자인 패턴 목록 수정">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DesignPatterns" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,6 +33,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="sshConsole" />
   </component>
   <component name="SvnConfiguration">
@@ -42,6 +49,10 @@
       <option name="presentableId" value="Default" />
       <updated>1582630538052</updated>
       <workItem from="1582630614709" duration="2076000" />
+      <workItem from="1582727032525" duration="133000" />
+      <workItem from="1582773155865" duration="267000" />
+      <workItem from="1582812577917" duration="530000" />
+      <workItem from="1582813155208" duration="833000" />
     </task>
     <task id="LOCAL-00001" summary="2020.02.25 : 인텔이제이에서 사용하기">
       <created>1582637195291</created>
@@ -50,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582637195292</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2020.02.26 : 참고 URL 목록 추가">
+      <created>1582727062404</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582727062404</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -58,25 +76,51 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2020.02.25 : 인텔이제이에서 사용하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.02.25 : 인텔이제이에서 사용하기" />
+    <MESSAGE value="2020.02.26 : 참고 URL 목록 추가" />
+    <MESSAGE value="2020.02.27 : 디자인 패턴 누락분 정리하기" />
+    <MESSAGE value="2020.02.27 : 디자인 패턴 목록 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.02.27 : 디자인 패턴 목록 수정" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582637018494">
+    <state x="496" y="225" width="811" height="669" key="#Project_Structure" timestamp="1582773333154">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1582637018494" />
-    <state x="465" y="162" key="CommitChangelistDialog2" timestamp="1582726723116">
+    <state x="496" y="225" width="811" height="669" key="#Project_Structure/0.0.1792.1120@0.0.1792.1120" timestamp="1582773333154" />
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582773338443">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="465" y="162" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1582726723116" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1582726726102">
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1582773338443" />
+    <state x="465" y="162" key="CommitChangelistDialog2" timestamp="1582813073526">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1582726726102" />
-    <state x="573" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1582727033785">
+    <state x="465" y="162" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1582813073526" />
+    <state x="465" y="170" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1582727062135" />
+    <state x="384" y="141" key="SettingsEditor" timestamp="1582813201812">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="384" y="141" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1582813201812" />
+    <state x="496" y="295" key="Vcs.Push.Dialog.v2" timestamp="1582727064967">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1582726726102" />
+    <state x="496" y="295" key="Vcs.Push.Dialog.v2/0.23.1792.1017@0.23.1792.1017" timestamp="1582727064967" />
+    <state x="573" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1582813156340">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="573" y="376" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1582813156340" />
     <state x="573" y="364" key="com.intellij.ide.util.TipDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1582727033785" />
     <state x="573" y="366" key="com.intellij.ide.util.TipDialog/0.23.1792.1022@0.23.1792.1022" timestamp="1582630726414" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1582773201163">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1582773201163" />
+    <state x="273" y="286" key="new project wizard" timestamp="1582813327541">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="273" y="286" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1582813327541" />
+    <state x="561" y="222" width="670" height="676" key="search.everywhere.popup" timestamp="1582812860180">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="222" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1582812860180" />
   </component>
 </project>
