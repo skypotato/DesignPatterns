@@ -18,13 +18,15 @@
 - [Template Method Pattern](#Template-Method-Pattern)
 - [Iterator Pattern](#Iterator-Pattern)
 - [State Pattern](#State-Pattern)
+- [Proxy Pattern](#Proxy-Pattern)
 - [용어사전](#용어사전)
 - [참고 URL](#참고-URL)
 ## 히스토리
 - 2019.12.30 : 첫 커밋.
 - 2020.01.05 : 디자인 패턴 정리 1 ~ 4장
 - 2020.01.19 : 팩토리 패턴 정리 및 클래스 다이어그램 작성
-- 2020.02.10 : 어댑터 패턴과 퍼사드 패턴 
+- 2020.02.10 : 어댑터 패턴과 퍼사드 패턴
+- 2020.03.04 : 프록시 패턴 정의 
 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
@@ -189,7 +191,7 @@ Java에서의 Decorator Pattern
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
 ## Proxy Pattern
-어떤 객체에 대한 접근을 제어하기 위한 용도로 대리인이나 대변인에 해당하는 객체를 제공하는 패턴
+어떤 객체에 대한 접근을 제어하기 위한 용도로 대리인이나 대변인에 해당하는 객체를 제공하는 패
 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
