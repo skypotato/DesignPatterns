@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b11669bf-1fcc-4f28-aaf3-6b4ecf14fac9" name="Default Changelist" comment="2020.03.01 : 의존성 부패 용어사전 추가">
+    <list default="true" id="b11669bf-1fcc-4f28-aaf3-6b4ecf14fac9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -54,6 +54,7 @@
       <workItem from="1582773155865" duration="267000" />
       <workItem from="1582812577917" duration="530000" />
       <workItem from="1582813155208" duration="2529000" />
+      <workItem from="1583058733680" duration="526000" />
     </task>
     <task id="LOCAL-00001" summary="2020.02.25 : 인텔이제이에서 사용하기">
       <created>1582637195291</created>
@@ -83,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583056942235</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2020.03.01 : 애플릿 용어사전 추가">
+      <created>1583058758235</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583058758235</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +106,8 @@
     <MESSAGE value="2020.03.29 : 템플릿 메소드 패턴" />
     <MESSAGE value="2020.03.01 : 후크 용어사전 추가" />
     <MESSAGE value="2020.03.01 : 의존성 부패 용어사전 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.03.01 : 의존성 부패 용어사전 추가" />
+    <MESSAGE value="2020.03.01 : 애플릿 용어사전 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.03.01 : 애플릿 용어사전 추가" />
   </component>
   <component name="WindowStateProjectService">
     <state x="496" y="225" width="811" height="669" key="#Project_Structure" timestamp="1583058641380">
@@ -109,19 +118,19 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1582773338443" />
-    <state x="465" y="162" key="CommitChangelistDialog2" timestamp="1583058652150">
+    <state x="465" y="162" key="CommitChangelistDialog2" timestamp="1583058757917">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="465" y="162" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1583058652150" />
+    <state x="465" y="162" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1583058757917" />
     <state x="465" y="170" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1582727062135" />
     <state x="384" y="141" key="SettingsEditor" timestamp="1582813201812">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="384" y="141" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1582813201812" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1583056946663">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1583058762798">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1583056946663" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1583058762798" />
     <state x="496" y="295" key="Vcs.Push.Dialog.v2/0.23.1792.1017@0.23.1792.1017" timestamp="1582727064967" />
     <state x="573" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1583058737492">
       <screen x="0" y="0" width="1792" height="1120" />

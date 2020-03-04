@@ -17,6 +17,7 @@
 - [Facade Pattern](#Facade-Pattern)
 - [Template Method Pattern](#Template-Method-Pattern)
 - [Iterator Pattern](#Iterator-Pattern)
+- [State Pattern](#State-Pattern)
 - [용어사전](#용어사전)
 - [참고 URL](#참고-URL)
 ## 히스토리
@@ -181,8 +182,17 @@ Java에서의 Decorator Pattern
 
 ## Iterator Pattern
 
- 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
+
+## State Pattern
+
+<div align="right"><b><a href="#">↥ back to top</a></b></div>
+
+## Proxy Pattern
+어떤 객체에 대한 접근을 제어하기 위한 용도로 대리인이나 대변인에 해당하는 객체를 제공하는 패턴
+
+<div align="right"><b><a href="#">↥ back to top</a></b></div>
+
 
 ## 용어사전
 - 상속(inheritance)
