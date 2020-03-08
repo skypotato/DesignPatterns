@@ -195,10 +195,15 @@ Java에서의 Decorator Pattern
 어떤 객체에 대한 접근을 제어하기 위한 용도로 대리인이나 대변인에 해당하는 객체를 제공하는 패턴
 
 ### RMI(Remote Method Invocation)
-
+java.rmi 패키지에서 제공하며, 분산 응용 프로그램을 구축하는 데 사용한다. 그리고 Java 프로그램 간의 원격 통신을 제공한다.
+EJB(Enterprice Java Beans)의 초석이 된다.
 
 #### RMI 구조
 ![RMI 구조](WebContent/WEB-INF/assets/img/RMI.jpg "RMI 구조")
+
+#### RMI 레지스트리
+![RMI 레지스트리](WebContent/WEB-INF/assets/img/RMI_Registry.jpg "RMI 레지스트리")
+
 
 #### RMI 목표
 - 응용 프로그램의 복잡성 최소화
@@ -271,6 +276,11 @@ RMI(Remote Method Invocation)에서 서비스 보조 객체를 말한다.
 - 원격 참조 레이어(RRL, Remote Reference Layer)
 ```
 클라이언트가 원격 객체에 대한 참조를 관리하는 계층
+```
+- 엔터프라이즈 자바 빈즈(EJB, Enterprice Java Beans)
+```
+기업환경의 시스템을 구현하기 위한 서버측 컴포넌트 모델이다.
+간단하게 효율으로 서버 관리하고 프로그램 관련 문제를 해결해줌으로써 업무 효율성을 증대시켜주는 프로그램이다.
 ```
 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
