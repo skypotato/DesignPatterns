@@ -192,7 +192,19 @@ Java에서의 Decorator Pattern
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
 ## Proxy Pattern
-어떤 객체에 대한 접근을 제어하기 위한 용도로 대리인이나 대변인에 해당하는 객체를 제공하는 패
+어떤 객체에 대한 접근을 제어하기 위한 용도로 대리인이나 대변인에 해당하는 객체를 제공하는 패턴
+
+### RMI(Remote Method Invocation)
+
+
+#### RMI 구조
+![RMI 구조](WebContent/WEB-INF/assets/img/RMI.jpg "RMI 구조")
+
+#### RMI 목표
+- 응용 프로그램의 복잡성 최소화
+- 형식의 안전을 유지
+- 분산 가비지 콜렉션
+- 로컬 및 원격 객체 작업의 차이를 최소화
 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
@@ -244,11 +256,29 @@ Java에서의 Decorator Pattern
 ```
 S/W 모듈 등의 이식 및 설치가 쉽도록, 그 내용을 알기쉽게 규격화하는 것을 의미한다.
 ```
+- 원격 메소드 호출(RMI, Remote Method Invocation)
+```
+분산되어 존재하는 객체 간의 메시지 전송을 가능하게 하는 프로토콜을 말한다.
+```
+- 스텁(stub)
+```
+RMI(Remote Method Invocation)에서 클라이언트 보조 객체를 말한다.
+```
+- 스켈레톤(skeletion)
+```
+RMI(Remote Method Invocation)에서 서비스 보조 객체를 말한다.
+```
+- 원격 참조 레이어(RRL, Remote Reference Layer)
+```
+클라이언트가 원격 객체에 대한 참조를 관리하는 계층
+```
 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
 ## 참고 URL
 - ['jusungpark'님의 티스토리블로그](https://jusungpark.tistory.com) : 디자인 패턴 자료 및 이미지
 - ['정보통신기술용어해설' 홈페이지](http://www.ktword.co.kr/word/abbr_view.php?m_temp1=360) : 투명성(transparency) 정의 관련 자료
+- ['공유민'님의 티스토리블로그](https://0yumin.tistory.com/16) : RMI에 관한 자료
+- [](https://www.tutorialspoint.com/java_rmi/java_rmi_introduction.htm) : RMI관한 자료
 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
