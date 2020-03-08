@@ -194,14 +194,25 @@ Java에서의 Decorator Pattern
 ## Proxy Pattern
 어떤 객체에 대한 접근을 제어하기 위한 용도로 대리인이나 대변인에 해당하는 객체를 제공하는 패턴
 
+### Proxy 구축 단계
+1. 원격 인터페이스 만듬
+2. 서비스 구현 클래스 만듬
+3. rmic(RMI Compiler)를 이용하여 스텁와 스켈레톤 만듬
+4. RMI 레지스트리를 실행
+5. 원격서비스 시작
+
 ### RMI(Remote Method Invocation)
-java.rmi 패키지에서 제공하며, 분산 응용 프로그램을 구축하는 데 사용한다. 그리고 Java 프로그램 간의 원격 통신을 제공한다.
+java.rmi 패키지에서 제공하며, 분산 응용 프로그램을 구축하는 데 사용한다. 그리고 Java 프로그램 간의 원격 통신을 제공한다. 
 EJB(Enterprice Java Beans)의 초석이 된다.
 
 #### RMI 구조
+
 ![RMI 구조](WebContent/WEB-INF/assets/img/RMI.jpg "RMI 구조")
 
+
 #### RMI 레지스트리
+모든 서버 객체가 배치되는 네임스페이스다.
+
 ![RMI 레지스트리](WebContent/WEB-INF/assets/img/RMI_Registry.jpg "RMI 레지스트리")
 
 
@@ -210,6 +221,9 @@ EJB(Enterprice Java Beans)의 초석이 된다.
 - 형식의 안전을 유지
 - 분산 가비지 콜렉션
 - 로컬 및 원격 객체 작업의 차이를 최소화
+
+#### 동적 클래스 다운로딩(Dynamic Class Downloading)
+
 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
@@ -282,6 +296,11 @@ RMI(Remote Method Invocation)에서 서비스 보조 객체를 말한다.
 기업환경의 시스템을 구현하기 위한 서버측 컴포넌트 모델이다.
 간단하게 효율으로 서버 관리하고 프로그램 관련 문제를 해결해줌으로써 업무 효율성을 증대시켜주는 프로그램이다.
 ```
+- 네임스페이스(Namespace)
+```
+개체를 구분할 수 있는 범위를 나타내는 말이다.
+일반적으로 하나의 이름 공간에서는 하나의 이름이 단 하나의 개체만을 가리킨다.
+```
 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
 
@@ -289,6 +308,7 @@ RMI(Remote Method Invocation)에서 서비스 보조 객체를 말한다.
 - ['jusungpark'님의 티스토리블로그](https://jusungpark.tistory.com) : 디자인 패턴 자료 및 이미지
 - ['정보통신기술용어해설' 홈페이지](http://www.ktword.co.kr/word/abbr_view.php?m_temp1=360) : 투명성(transparency) 정의 관련 자료
 - ['공유민'님의 티스토리블로그](https://0yumin.tistory.com/16) : RMI에 관한 자료
-- [](https://www.tutorialspoint.com/java_rmi/java_rmi_introduction.htm) : RMI관한 자료
+- ['turorialspoint' 홈페이지](https://www.tutorialspoint.com/java_rmi/java_rmi_introduction.htm) : RMI관한 자료
+- [Oracle 문서](https://docs.oracle.com/javase/7/docs/technotes/guides/rmi/codebase.html) : RMI 문서
 
 <div align="right"><b><a href="#">↥ back to top</a></b></div>
