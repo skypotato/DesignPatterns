@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b11669bf-1fcc-4f28-aaf3-6b4ecf14fac9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/proxyPattern/GumballMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +12,13 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="DesignPatterns" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,7 +69,7 @@
       <workItem from="1583058733680" duration="839000" />
       <workItem from="1583325579656" duration="147000" />
       <workItem from="1583590858640" duration="512000" />
-      <workItem from="1583664717941" duration="5685000" />
+      <workItem from="1583664717941" duration="6327000" />
     </task>
     <task id="LOCAL-00001" summary="2020.02.25 : 인텔이제이에서 사용하기">
       <created>1582637195291</created>
@@ -141,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583671539952</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2020.03.08 : RMI 참고 url">
+      <created>1583674203027</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1583674203027</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +175,8 @@
     <MESSAGE value="2020.03.06 : 스터디 발표 준비" />
     <MESSAGE value="2020.03.08 : RMI" />
     <MESSAGE value="2020.03.08 : RMI 레지스트리" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.03.08 : RMI 레지스트리" />
+    <MESSAGE value="2020.03.08 : RMI 참고 url" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.03.08 : RMI 참고 url" />
   </component>
   <component name="WindowStateProjectService">
     <state x="496" y="225" width="811" height="669" key="#Project_Structure" timestamp="1583325539158">
@@ -174,20 +189,20 @@
     </state>
     <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1582773338443" />
     <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.0.1048.770/0.0.1792.1120@0.0.1792.1120" timestamp="1583669382923" />
-    <state x="465" y="162" key="CommitChangelistDialog2" timestamp="1583671539819">
+    <state x="465" y="162" key="CommitChangelistDialog2" timestamp="1583674202945">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="465" y="162" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1583590942391" />
+    <state x="465" y="162" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1583674202945" />
     <state x="465" y="170" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1582727062135" />
     <state x="465" y="162" key="CommitChangelistDialog2/1792.0.1048.770/0.0.1792.1120@0.0.1792.1120" timestamp="1583671539819" />
     <state x="384" y="141" key="SettingsEditor" timestamp="1582813201812">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="384" y="141" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1582813201812" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1583671543028">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1583674205145">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1583591279780" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1583674205145" />
     <state x="496" y="295" key="Vcs.Push.Dialog.v2/0.23.1792.1017@0.23.1792.1017" timestamp="1582727064967" />
     <state x="496" y="300" key="Vcs.Push.Dialog.v2/1792.0.1048.770/0.0.1792.1120@0.0.1792.1120" timestamp="1583671543028" />
     <state x="573" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1583664734659">
