@@ -34,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/proxyPattern" />
@@ -50,6 +51,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/proxyPattern" />
       <recent name="$PROJECT_DIR$/WebContent/WEB-INF/assets/img" />
     </key>
   </component>
@@ -215,10 +217,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="484" y="222" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1583762302928" />
-    <state x="465" y="162" key="CommitChangelistDialog2" timestamp="1583762199476">
+    <state x="465" y="162" key="CommitChangelistDialog2" timestamp="1583762876335">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="465" y="162" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1583762199476" />
+    <state x="465" y="162" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1583762876335" />
     <state x="465" y="170" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1582727062135" />
     <state x="465" y="162" key="CommitChangelistDialog2/1792.0.1048.770/0.0.1792.1120@0.0.1792.1120" timestamp="1583671539819" />
     <state x="384" y="141" key="SettingsEditor" timestamp="1582813201812">
