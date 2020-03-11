@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b11669bf-1fcc-4f28-aaf3-6b4ecf14fac9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,61 @@
       <recent name="$PROJECT_DIR$/WebContent/WEB-INF/assets/img" />
     </key>
   </component>
+  <component name="RunManager" selected="Application.GumballMachineTestDrive">
+    <configuration name="GumballMachineTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proxyPattern.gumball.GumballMachineTestDrive" />
+      <module name="DesignPatterns" />
+      <option name="PROGRAM_PARAMETERS" value="Seattle 112" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxyPattern.gumball.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GumballMachineTestDrive" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="proxyPattern.gumballmonitor.GumballMachineTestDrive" />
+      <module name="DesignPatterns" />
+      <option name="PROGRAM_PARAMETERS" value="Seattle 112" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxyPattern.gumballmonitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GumballMonitorTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proxyPattern.gumball.GumballMonitorTestDrive" />
+      <module name="DesignPatterns" />
+      <option name="PROGRAM_PARAMETERS" value="Seattle 112" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxyPattern.gumball.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GumballMachineTestDrive" />
+      <item itemvalue="Application.GumballMonitorTestDrive" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GumballMachineTestDrive" />
+        <item itemvalue="Application.GumballMonitorTestDrive" />
+        <item itemvalue="Application.GumballMachineTestDrive" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -72,7 +126,7 @@
       <workItem from="1583325579656" duration="147000" />
       <workItem from="1583590858640" duration="512000" />
       <workItem from="1583664717941" duration="6435000" />
-      <workItem from="1583762267111" duration="1178000" />
+      <workItem from="1583762267111" duration="3287000" />
     </task>
     <task id="LOCAL-00001" summary="2020.02.25 : 인텔이제이에서 사용하기">
       <created>1582637195291</created>
@@ -193,7 +247,28 @@
       <option name="project" value="LOCAL" />
       <updated>1583763119762</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2020.03.08 : jdk 설정">
+      <created>1583763581165</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1583763581165</updated>
+    </task>
+    <task id="LOCAL-00019" summary="2020.03.08 : jdk 설정">
+      <created>1583763590308</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1583763590308</updated>
+    </task>
+    <task id="LOCAL-00020" summary="2020.03.08 : jdk 설정">
+      <created>1583763595977</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1583763595977</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,19 +291,28 @@
     <MESSAGE value="2020.03.08 : RMI 참고 url" />
     <MESSAGE value="2020.03.08 : 프록시 첫 소스" />
     <MESSAGE value="2020.03.08 : 프록시 전체 소스" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.03.08 : 프록시 전체 소스" />
+    <MESSAGE value="2020.03.08 : jdk 설정" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.03.08 : jdk 설정" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="572" y="237" key="#GumballMachineTestDrive_(1)" timestamp="1583765443256">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="572" y="237" key="#GumballMachineTestDrive_(1)/0.0.1792.1120@0.0.1792.1120" timestamp="1583765443256" />
     <state x="496" y="225" width="811" height="669" key="#Project_Structure" timestamp="1583325539158">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="496" y="225" width="811" height="669" key="#Project_Structure/0.0.1792.1120@0.0.1792.1120" timestamp="1583058641380" />
     <state x="496" y="225" key="#Project_Structure/1792.0.1048.770/0.0.1792.1120@0.0.1792.1120" timestamp="1583325539158" />
-    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583763287444">
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583765510933">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1583763287444" />
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1583765510933" />
     <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.0.1048.770/0.0.1792.1120@0.0.1792.1120" timestamp="1583669382923" />
+    <state x="683" y="272" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1583765475401">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="683" y="272" key="#com.intellij.ide.macro.MacrosDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1583765475401" />
     <state x="745" y="456" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583762975596">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -237,20 +321,52 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="484" y="222" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1583762971583" />
-    <state x="465" y="162" key="CommitChangelistDialog2" timestamp="1583763590209">
+    <state x="465" y="162" key="CommitChangelistDialog2" timestamp="1583763595889">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="465" y="162" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1583763590209" />
+    <state x="465" y="162" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1583763595889" />
     <state x="465" y="170" key="CommitChangelistDialog2/0.23.1792.1017@0.23.1792.1017" timestamp="1582727062135" />
     <state x="465" y="162" key="CommitChangelistDialog2/1792.0.1048.770/0.0.1792.1120@0.0.1792.1120" timestamp="1583671539819" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1583765513277">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1583765513277" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1583765513275">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1583765513275" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1583765513275">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1583765513275" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1583765513276">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1583765513276" />
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom" timestamp="1583763871044">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1583763871044" />
+    <state width="1750" height="391" key="GridCell.Tab.1.center" timestamp="1583763871042">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1583763871042" />
+    <state width="1750" height="391" key="GridCell.Tab.1.left" timestamp="1583763871042">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1583763871042" />
+    <state width="1750" height="391" key="GridCell.Tab.1.right" timestamp="1583763871043">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1583763871043" />
     <state x="384" y="141" key="SettingsEditor" timestamp="1583763523813">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="384" y="141" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1583763523813" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1583674205145">
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1583763597895">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1583674205145" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1583763597895" />
     <state x="496" y="295" key="Vcs.Push.Dialog.v2/0.23.1792.1017@0.23.1792.1017" timestamp="1582727064967" />
     <state x="496" y="300" key="Vcs.Push.Dialog.v2/1792.0.1048.770/0.0.1792.1120@0.0.1792.1120" timestamp="1583671543028" />
     <state x="573" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1583762267815">
